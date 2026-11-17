@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Augment — Cybernetic Enhancements",
+  "description": "Gateway to your augmented self. A window of coming enhancements where carbon fiber, titanium, and human instinct align.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
